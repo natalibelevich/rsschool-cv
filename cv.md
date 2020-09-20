@@ -28,4 +28,14 @@ great memory and good skills in time-management._**
   ```javascript
   alert( "Hello world");
   ``` 
- 
+    
+  ## Experience 
+    HTMLacademy
+  ## Education
+    * RSschool 
+    * learn.javascript
+  
+  ## English
+    I am studying with a tutor. 
+    Have B2plus level.
+    
