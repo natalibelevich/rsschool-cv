@@ -1,2 +1,2 @@
 # rsschool-cv
-https://natalibelevich.github.io/rsschool-cv/cv
+https://natalibelevich.github.io/rsschool-cv/
